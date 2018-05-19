@@ -1,3 +1,8 @@
+---
+title: "First Blog Post"
+date: 2018-05-19
+---
+
 Hi Everyone,
 
    This is my first post. I am really excited to create my blog post.
